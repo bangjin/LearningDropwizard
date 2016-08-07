@@ -10,6 +10,7 @@
     <version>0.1</version>
     <modules>
         <module>helloworld</module>
+        <module>core</module>
     </modules>
     <properties>
         <dropwizard.version>1.0.0</dropwizard.version>
